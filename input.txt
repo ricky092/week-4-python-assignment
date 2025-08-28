@@ -1,0 +1,3 @@
+my name is ricky
+Hello, this is some text.
+This will be converted to uppercase.
